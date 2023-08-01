@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="namaTextView" type="id">nama</item>
+    <item name="deskripsiTextView" type="id">deskripsi</item>
+    <item name="tglWaktuTextView" type="id">tgl</item>
+    <item name="suhuTextView" type="id">suhu</item>
+    <item name="recycleView1" type="id">rv1</item>
+    <item name="swipeRefreshLayout1" type="id">sr1</item>
+</resources>
